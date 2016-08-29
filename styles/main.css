@@ -1,0 +1,68 @@
+html{
+	margin:0px;
+	background:black;
+	color:darkred;
+	font-family:helvetica;
+}
+
+.header{
+	background:black;
+	color:darkred;
+	float:left;
+	
+}
+
+.header a{
+	font-size:175%;
+	margin:20px 50px;
+	display:inline-block;
+	text-align:center;
+	padding:5px 20px;
+	border:solid darkred;
+	text-decoration:none;
+}
+
+.header img{
+	display:inline-block;
+	border:none;
+	margin-top:5px;
+	margin-left:350px;
+	
+}
+
+#title{
+	text-align:center;
+	font-size:40px;
+	font-family:georgia;
+}
+
+p{
+	font-size:140%;
+	text-align:center;
+}
+
+hr{
+	border-color:darkred;
+}
+
+#ips{
+	text-align:center;
+}
+
+#downloads{
+	text-align:center;
+}
+
+#downloads a{
+	font-size:20px;
+}
+
+#curl{
+	color:darkred;
+	text-decoration:none;
+}
+
+#me{
+	text-align:center;
+	display:block;
+}
