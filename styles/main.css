@@ -26,7 +26,7 @@ html{
 	display:inline-block;
 	border:none;
 	margin-top:5px;
-	margin-left:350px;
+	margin-left:390px;
 	
 }
 
@@ -51,10 +51,20 @@ hr{
 
 #downloads{
 	text-align:center;
+	
+	margin:20px;
 }
 
 #downloads a{
 	font-size:20px;
+	text-decoration:none;
+}
+
+#downloads h2{
+	margin:20px 50px;
+	text-align:center;
+	padding:5px 20px;
+	text-decoration:none;
 }
 
 #curl{
@@ -65,4 +75,18 @@ hr{
 #me{
 	text-align:center;
 	display:block;
+}
+
+#index{
+	text-align:center;
+}
+
+#index_2{
+	margin:50px 0px 0px 0px;
+	font-size:350%;
+	font-family:playfair display;
+}
+
+#para a{
+	text-decoration:none;
 }
