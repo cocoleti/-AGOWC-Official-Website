@@ -51,8 +51,6 @@ hr{
 
 #downloads{
 	text-align:center;
-	
-	margin:20px;
 }
 
 #downloads a{
@@ -61,10 +59,13 @@ hr{
 }
 
 #downloads h2{
-	margin:20px 50px;
+	margin:20px auto;
 	text-align:center;
 	padding:5px 20px;
 	text-decoration:none;
+	border:double darkred;
+	width:80px;
+	
 }
 
 #curl{
